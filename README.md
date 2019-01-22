@@ -1,7 +1,7 @@
 # Java
 Java Programming Language
 
-## WAP to generate given patterns & submit your programs in GitHub issuese:
+## WAP to generate given patterns & submit your programs in GitHub issues:
 [[Pattern#1](https://github.com/KCE/Java/issues/1)][[Pattern#2](https://github.com/KCE/Java/issues/2)][[Pattern#3](https://github.com/KCE/Java/issues/3)][[Pattern#4](https://github.com/KCE/Java/issues/4)][[Pattern#5](https://github.com/KCE/Java/issues/5)][[Pattern#6](https://github.com/KCE/Java/issues/6)][[Pattern#7](https://github.com/KCE/Java/issues/7)][[Pattern#8](https://github.com/KCE/Java/issues/8)][[Pattern#9](https://github.com/KCE/Java/issues/9)][[Pattern#10](https://github.com/KCE/Java/issues/10)][[Pattern#11](https://github.com/KCE/Java/issues/11)][[Pattern#12](https://github.com/KCE/Java/issues/12)][[Pattern#13](https://github.com/KCE/Java/issues/13)][[Pattern#14](https://github.com/KCE/Java/issues/14)][[Pattern#15](https://github.com/KCE/Java/issues/15)][[Pattern#16](https://github.com/KCE/Java/issues/16)][[Pattern#17](https://github.com/KCE/Java/issues/17)][[Pattern#18](https://github.com/KCE/Java/issues/18)][[Pattern#19](https://github.com/KCE/Java/issues/19)][[Pattern#20](https://github.com/KCE/Java/issues/20)][[Pattern#21](https://github.com/KCE/Java/issues/21)][[Pattern#22](https://github.com/KCE/Java/issues/22)][[Pattern#23](https://github.com/KCE/Java/issues/23)][[Pattern#24](https://github.com/KCE/Java/issues/24)][[Pattern#25](https://github.com/KCE/Java/issues/25)]
 
 ## Core Logic Test
