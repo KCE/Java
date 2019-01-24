@@ -26,6 +26,9 @@ Java Programming Language
 - **[CoreTask#10](https://github.com/KCE/Java/issues/35)**: - IntegerBasedRounding - rounds  all  its  positive  elements of array using n-based integer rounding
 
 ## Previous Projects' Screenshots
-- [Class Routine Management System]()
-- [Student Management System]()
-- [eWallet]()
+- [Class Routine Management System](https://github.com/KCE/Java/issues/36)
+- [Student Management System](https://github.com/KCE/Java/issues/37)
+- [Project Wallet](https://github.com/KCE/Java/issues/38)
+- [Project PMS](https://github.com/KCE/Java/issues/39)
+- [Project SRP](https://github.com/KCE/Java/issues/40)
+- And many more ...
