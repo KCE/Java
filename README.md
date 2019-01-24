@@ -24,3 +24,8 @@ Java Programming Language
 - **[CoreTask#9](https://github.com/KCE/Java/issues/34)**: - ClusterCompression - {3, 3, 3, 4, 4, 3, 2, 2, 2, 2, 4} to{3, 4, 3, 2, 4}
 
 - **[CoreTask#10](https://github.com/KCE/Java/issues/35)**: - IntegerBasedRounding - rounds  all  its  positive  elements of array using n-based integer rounding
+
+## Previous Projects' Screenshots
+- [Class Routine Management System]()
+- [Student Management System]()
+- [eWallet]()
