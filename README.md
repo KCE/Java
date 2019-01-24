@@ -21,7 +21,7 @@ Java Programming Language
 
 - **[CoreTask#8](https://github.com/KCE/Java/issues/33)**: - ConvertToBase10 - <array, base> arguments to a base 10 number
 
-- **[CoreTask#9](https://github.com/KCE/Java/issues/34)**: - ClusterCompression - {3, 3, 3, 4, 4, 3, 2, 2, 2, 2, 4} to{3, 4, 3, 2, 4}
+- **[CoreTask#9](https://github.com/KCE/Java/issues/34)**: - ClusterCompression - {3, 3, 3, 4, 4, 3, 2, 2, 2, 2, 4} to {3, 4, 3, 2, 4}
 
 - **[CoreTask#10](https://github.com/KCE/Java/issues/35)**: - IntegerBasedRounding - rounds  all  its  positive  elements of array using n-based integer rounding
 
