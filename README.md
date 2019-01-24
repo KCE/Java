@@ -15,12 +15,12 @@ Java Programming Language
 
 - **[CoreTask#5](https://github.com/KCE/Java/issues/30)**: DigitSum - returns 1 if sum of all digits of the first argument is less than the second argument and 0 otherwise
 
-- **[CoreTask#6]()**: - Riley - number is an integer whose digits are all even
+- **[CoreTask#6](https://github.com/KCE/Java/issues/31)**: - Riley - number is an integer whose digits are all even
 
-- **[CoreTask#7]()**: - TwinArray - every prime that has a twin appear with a twin
+- **[CoreTask#7](https://github.com/KCE/Java/issues/32)**: - TwinArray - every prime that has a twin appear with a twin
 
-- **[CoreTask#8]()**: - ConvertToBase10 - <array, base> arguments to a base 10 number
+- **[CoreTask#8](https://github.com/KCE/Java/issues/33)**: - ConvertToBase10 - <array, base> arguments to a base 10 number
 
-- **[CoreTask#9]()**: - ClusterCompression - {3, 3, 3, 4, 4, 3, 2, 2, 2, 2, 4} to{3, 4, 3, 2, 4}
+- **[CoreTask#9](https://github.com/KCE/Java/issues/34)**: - ClusterCompression - {3, 3, 3, 4, 4, 3, 2, 2, 2, 2, 4} to{3, 4, 3, 2, 4}
 
-- **[CoreTask#10]()**: - IntegerBasedRounding - rounds  all  its  positive  elements of array using n-based integer rounding
+- **[CoreTask#10](https://github.com/KCE/Java/issues/35)**: - IntegerBasedRounding - rounds  all  its  positive  elements of array using n-based integer rounding
